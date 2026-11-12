@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"ToolWalla download server: paste a public video link, get the real MP4/MP3 file in 1080/720/480/360. Worldwide hosting.","engines":{"node":">=18"},"main":"server.js","name":"toolwalla-download-server","scripts":{"start":"node server.js"},"version":"1.0.0"}
